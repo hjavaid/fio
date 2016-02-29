@@ -1,0 +1,12 @@
+com/fio/prs/PrsApplication.class
+com/fio/prs/repo/DocumentRepository.class
+com/fio/prs/controller/PrsController.class
+com/fio/prs/controller/DocumentController.class
+com/fio/prs/service/DemographicsService.class
+com/fio/prs/repo/DemographicInfoRepository.class
+com/fio/prs/service/DocumentCrossReferenceService.class
+com/fio/prs/controller/DemographicInfoController.class
+com/fio/prs/dto/DemographicDTO.class
+com/fio/prs/model/DemographicInfo.class
+com/fio/prs/model/Document.class
+com/fio/prs/dto/DocumentDTO.class

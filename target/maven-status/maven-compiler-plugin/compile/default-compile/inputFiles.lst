@@ -1,0 +1,12 @@
+/home/haris/learning/prs/src/main/java/com/fio/prs/service/DocumentCrossReferenceService.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/controller/DemographicInfoController.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/repo/DemographicInfoRepository.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/service/DemographicsService.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/PrsApplication.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/model/DemographicInfo.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/dto/DocumentDTO.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/model/Document.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/controller/PrsController.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/repo/DocumentRepository.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/dto/DemographicDTO.java
+/home/haris/learning/prs/src/main/java/com/fio/prs/controller/DocumentController.java
